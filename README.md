@@ -1,3 +1,8 @@
+# Browser Synth
+
+This is a minimal experiment with browser audio APIs, more to come eventually.
+See it running at http://www.brannonheftel.com/browser-synth/
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
